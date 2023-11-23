@@ -47,7 +47,12 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Unnop-Thamtiengtham&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
+## 🗂️ Contact
+
+[![Facebook](https://img.shields.io/badge/Follow-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Unnop.Beem)
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/beem.un/)
+
+
 <!--
 <a href="https://github.com/Zhenye-Na/DA-RNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
